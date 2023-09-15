@@ -1,8 +1,5 @@
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/0355e8b2-2ef4-4cb4-9fad-f4348b779153)
 
-# custom-pc-build
-David's Custom PC Build Cheatsheet
-
 # Checklist
 * Tower case
 * Motherboard

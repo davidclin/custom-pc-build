@@ -23,7 +23,8 @@ To research and find parts compatibility and cost, check out <link goes here>
 [See parts](https://a.co/6VKQqZ7)
 
 # Create Windows 11 Installation Media
-[Download](https://www.microsoft.com/en-us/software-download/windows11)
+[Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
+Run as Administrator.
 
 # Where to purchase Windows 11 license 
 [Purchase]()

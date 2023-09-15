@@ -22,7 +22,7 @@ To research and find parts compatibility and cost, check out <link goes here>
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)
 
-# Create Windows 11 Installation Media
+# Create Windows 11 Installation Media (5 minutes)
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>
 If you're unable to format your USB using NTFS because it's too large:<br>

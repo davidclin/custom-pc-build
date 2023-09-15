@@ -25,7 +25,7 @@ To research and find parts compatibility and cost, check out <link goes here>
 # Create Windows 11 Installation Media
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>
-If you're unable to format your USB because it's too large, try:<br>
+If you're unable to format your USB using NTFS because it's too large:<br>
 <pre>
 Run cmd as Administrator
 diskpart

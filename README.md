@@ -9,16 +9,26 @@
 * Cooling fan
 * Power supply
 
+# Tools
+* Thermal paste
+* Spreader
+* Screwdriver
+* Anti-static wristband
+* Suction cup
+
 # PC custom part site
 To research and find parts compatibility and cost, check out <link goes here>
 
 # Amazon Parts List
-[Parts](https://a.co/6VKQqZ7)
+[See parts](https://a.co/6VKQqZ7)
 
-# Creating Windows 11 Bootable USB Drive
+# Create Windows 11 Installation Media
+[Download](https://www.microsoft.com/en-us/software-download/windows11)
 
-# Where to purchase Windows 11 license for cheap
+# Where to purchase Windows 11 license 
+[Purchase]()
 
 # How to install a liquid cooling fan
+[Watch]()
 
 # Tips & Tricks

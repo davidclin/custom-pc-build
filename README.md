@@ -38,6 +38,7 @@ create partition primary
 format fs=ntfs quick
 cntl+c (to break out)
 chkdsk d: /f /r /x
+Run Disk Management again to confirm USB is healthy
 </pre>
 
 # Where to purchase Windows 11 license 

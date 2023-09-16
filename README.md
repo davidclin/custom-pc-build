@@ -45,15 +45,19 @@ Run Disk Management again to confirm USB is healthy
 
 # Install Windows 11
 [Watch](https://youtu.be/RYYoCXh2gtw?si=Ab5xFY4sXr3_i93H)
+
+
+# Install manufacturer drivers
+GPU
+Motherboard (network, wifi, soundcard, ...)
+etc
+
+# Update BIOS
+[]()
+
 # How to install a liquid cooling fan
 [Watch]()
 
-# Install drivers
-GPU
-CPU
-Motherboard
-BIOS
-etc
 # Tips & Tricks
 * Use power cables provided by power supply to avoid accidentally frying your components
 * Read the motherboard manual to understand which slots memory should be paired

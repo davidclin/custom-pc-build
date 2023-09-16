@@ -55,6 +55,9 @@ etc
 # Set BIOS to use full potentential of memory
 []()
 
+# Download software that manages LEDs
+[]() 
+
 # Update BIOS
 []()
 

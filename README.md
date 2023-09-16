@@ -48,7 +48,7 @@ Run Disk Management again to confirm USB is healthy
 
 
 # Install manufacturer drivers
-GPU
+GPU (Best pratice to do clean install)
 Motherboard (network, wifi, soundcard, ...)
 etc
 

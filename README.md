@@ -48,3 +48,6 @@ Run Disk Management again to confirm USB is healthy
 [Watch]()
 
 # Tips & Tricks
+* Use power cables provided by power supply to avoid accidentally frying your components
+* Read the motherboard manual to understand which slots memory should be paired
+* 

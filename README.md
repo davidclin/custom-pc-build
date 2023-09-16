@@ -40,9 +40,11 @@ chkdsk d: /f /r /x
 Run Disk Management again to confirm USB is healthy
 </pre>
 
-# Where to purchase Windows 11 license 
+# Purchase Windows 11 license 
 [Purchase]()
 
+# Install Windows 11
+[Watch](https://youtu.be/RYYoCXh2gtw?si=Ab5xFY4sXr3_i93H)
 # How to install a liquid cooling fan
 [Watch]()
 

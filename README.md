@@ -17,8 +17,7 @@
 * Suction cup
 
 # PC custom part site
-To research and find parts compatibility and cost, check out <link goes here>
-
+To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)
 

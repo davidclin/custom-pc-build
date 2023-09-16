@@ -52,6 +52,9 @@ GPU
 Motherboard (network, wifi, soundcard, ...)
 etc
 
+# Set BIOS to use full potentential of memory
+[]()
+
 # Update BIOS
 []()
 

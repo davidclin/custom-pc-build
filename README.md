@@ -50,4 +50,6 @@ Run Disk Management again to confirm USB is healthy
 # Tips & Tricks
 * Use power cables provided by power supply to avoid accidentally frying your components
 * Read the motherboard manual to understand which slots memory should be paired
-* 
+* Look for arrows on air cooling unti to see direction of airflow
+* Test everything before mounting the motherboard to the case
+* Download wifi and network drivers beforehand as many motherboards do t have the drivers installed

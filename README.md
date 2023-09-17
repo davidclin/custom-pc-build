@@ -1,12 +1,13 @@
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/0355e8b2-2ef4-4cb4-9fad-f4348b779153)
 
 # Components
-* Tower case
+* Mid Tower case
 * Motherboard
 * CPU
 * Memory
 * SSD Drive
-* Cooling fan
+* Cooling fans
+* Liquid CPU cooler
 * Power supply 
 
 # Tools

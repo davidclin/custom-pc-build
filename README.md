@@ -42,7 +42,8 @@ Run Disk Management again to confirm USB is healthy
 </pre>
 
 # Purchase Windows 11 license 
-[Purchase]()
+[Purchase from g2a](https://www.g2a.com/microsoft-windows-11-pro-pc-microsoft-key-global-i10000271164001)
+
 
 # Install Windows 11
 [Watch](https://youtu.be/RYYoCXh2gtw?si=Ab5xFY4sXr3_i93H

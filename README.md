@@ -109,6 +109,7 @@ etc<br>
 <pre>
 ATX  ATX stands for Advanced Technology Extended, and it is the most common and standard motherboard 
      size for desktop computers.
+  
 NZXT NZXT is an American computer hardware manufacturer based in Los Angeles, California. 
      The company manufactures computer cases, components, and accessories for the PC gaming market.
 </pre>

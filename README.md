@@ -30,7 +30,7 @@ Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS
 <pre>
 ATX 24 Pin  | for motherboard
 EPS         | for CPU (easy to confuse with PCI-E)
-PCI-E (6+2) | for graphics card
+PCI-E (6+2) | for GPU
 SATA        | for SSD drive
 Molex       | for older fans
 </pre>

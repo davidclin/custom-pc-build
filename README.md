@@ -45,6 +45,7 @@ Run Disk Management again to confirm USB is healthy
 
 # Install Windows 11
 [Watch](https://youtu.be/RYYoCXh2gtw?si=Ab5xFY4sXr3_i93H
+[Watch new](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
 Tips:<br>
 Connect without Internet<br>
 Choose to instal with minimal setup<br>

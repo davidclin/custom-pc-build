@@ -59,9 +59,10 @@ oobe\bypassnro
 Perform all Windows updates before updating drivers
 
 # Install manufacturer drivers
-GPU (Best pratice to do clean install)
-Motherboard (network, wifi, soundcard, ...)
-etc
+GPU (Best pratice to do clean install)<br>
+  - update refresh rate<br>
+Motherboard (network, wifi, soundcard, ...)<br>
+etc<br>
 
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)

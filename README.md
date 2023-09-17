@@ -22,6 +22,11 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)
 
+# Install power supply
+[Watch](https://youtu.be/1AmR7enxnXI?si=nSY3HXPqcaSHQLyp)<br>
+
+
+
 # Create Windows 11 Installation Media (5 minutes)
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>

@@ -20,7 +20,7 @@
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 
 # Amazon Parts List
-[See parts](https://a.co/6VKQqZ7)
+[See parts](https://a.co/6VKQqZ7)<br>
 [MWE Gold 850 v2 Full Modular Power Supply](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 
 # Install power supply

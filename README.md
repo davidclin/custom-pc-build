@@ -1,6 +1,6 @@
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/0355e8b2-2ef4-4cb4-9fad-f4348b779153)
 
-# Checklist
+# Components
 * Tower case
 * Motherboard
 * CPU
@@ -16,15 +16,14 @@
 * Anti-static wristband
 * Suction cup
 
-# PC custom part site
+# PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 
-# Amazon Parts List
-[See parts](https://a.co/6VKQqZ7)<br>
-Details<br>
+# Parts List
+Amazon | [Amazon](https://a.co/6VKQqZ7)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 
-# Install power supply
+# How to install a power supply
 [Watch](https://youtu.be/1AmR7enxnXI?si=nSY3HXPqcaSHQLyp)<br>
 
 

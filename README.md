@@ -18,6 +18,7 @@
 
 # PC custom part site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
+
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)
 
@@ -57,6 +58,10 @@ Perform all Windows updates before updating drivers
 GPU (Best pratice to do clean install)
 Motherboard (network, wifi, soundcard, ...)
 etc
+
+# Update BIOS
+[Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
+
 
 # Set BIOS to use full potentential of memory
 []()

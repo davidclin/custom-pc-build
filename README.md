@@ -41,8 +41,8 @@ chkdsk d: /f /r /x
 Run Disk Management again to confirm USB is healthy
 </pre>
 
-# Purchase Windows 11 license 
-[Purchase from g2a](https://www.g2a.com/microsoft-windows-11-pro-pc-microsoft-key-global-i10000271164001)
+# Purchase Windows 11 Pro license 
+[Purchase](https://www.g2a.com/microsoft-windows-11-pro-pc-microsoft-key-global-i10000271164001)
 
 
 # Install Windows 11

@@ -50,6 +50,10 @@ Run Disk Management again to confirm USB is healthy
 Tips:<br>
 Connect without Internet<br>
 Choose to instal with minimal setup<br>
+<pre>
+Shift + F10 to open prompt
+oobe\bypassnro  
+</pre>
 
 # Update Windows
 Perform all Windows updates before updating drivers

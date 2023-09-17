@@ -7,7 +7,7 @@
 * Memory
 * SSD Drive
 * Cooling fan
-* Power supply
+* Power supply 
 
 # Tools
 * Thermal paste
@@ -21,6 +21,7 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)
+[MWE Gold 850 v2 Full Modular Power Supply](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 
 # Install power supply
 [Watch](https://youtu.be/1AmR7enxnXI?si=nSY3HXPqcaSHQLyp)<br>

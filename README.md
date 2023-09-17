@@ -28,11 +28,11 @@ Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS
 
 # Power supply cable types
 <pre>
-ATX 24 Pin | for motherboard
-EPS | for CPU (easy to confuse with PCI-E)
+ATX 24 Pin  | for motherboard
+EPS         | for CPU (easy to confuse with PCI-E)
 PCI-E (6+2) | for graphics card
-SATA | for SSD drive
-Molex | for older fans
+SATA        | for SSD drive
+Molex       | for older fans
 </pre>
 
 # Create Windows 11 Installation Media (5 minutes)

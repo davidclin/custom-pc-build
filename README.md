@@ -23,6 +23,9 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 Amazon | [Amazon](https://a.co/6VKQqZ7)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 
+# How to prepare and connect motherboard to NXT chassis
+[Watch](https://www.youtube.com/watch?v=z51iV6ke3H0)
+
 # How to install a power supply
 [Watch](https://youtu.be/1AmR7enxnXI?si=nSY3HXPqcaSHQLyp)<br>
 

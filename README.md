@@ -49,6 +49,8 @@ Tips:<br>
 Connect without Internet<br>
 Choose to instal with minimal setup<br>
 
+# Update Windows
+Perform all Windows updates before updating drivers
 
 # Install manufacturer drivers
 GPU (Best pratice to do clean install)

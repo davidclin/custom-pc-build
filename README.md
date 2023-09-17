@@ -21,7 +21,8 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 
 # Amazon Parts List
 [See parts](https://a.co/6VKQqZ7)<br>
-[MWE Gold 850 v2 Full Modular Power Supply](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
+Details<br>
+Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 
 # Install power supply
 [Watch](https://youtu.be/1AmR7enxnXI?si=nSY3HXPqcaSHQLyp)<br>
@@ -93,3 +94,8 @@ etc<br>
 * Look for arrows on air cooling unti to see direction of airflow
 * Test everything before mounting the motherboard to the case
 * Download wifi and network drivers beforehand as many motherboards do t have the drivers installed
+
+# Terms
+<pre>
+ATX
+</pre>

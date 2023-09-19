@@ -103,7 +103,8 @@ etc<br>
 * Read the motherboard manual to understand which slots memory should be paired
 * Look for arrows on air cooling unti to see direction of airflow
 * Test everything before mounting the motherboard to the case
-* Download wifi and network drivers beforehand as many motherboards do t have the drivers installed
+* Download wifi and network drivers beforehand as many motherboards do not have the drivers pre-installed
+* Remember to take full advantage of your monitor's refresh rate
 
 # Terms
 <pre>

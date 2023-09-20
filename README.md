@@ -83,20 +83,24 @@ Motherboard (network, wifi, soundcard, ...)<br>
 etc<br>
 
 # Flash BIOS
-[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
-
 <pre>
 S U M M A R Y   O F   S T E P S
-Format USB using FAT32
-Download latest BIOS firmware from manufacturer website
-Unzip then copy files to USB
-Rename file using provided renaming tool
-Insert USB into Flash BIOS USB port
-Hold Flash BIOS button down for 3 seconds
-Wait for BIOS update to complete
-DO NOT POWER OFF THE PC or REMOVE USB
-Remove USB once light stops flashing
 </pre>
+* Format USB using FAT32
+* Download latest BIOS firmware from manufacturer website
+* Unzip then copy files to USB
+* Rename file using provided renaming tool
+* Insert USB into Flash BIOS USB port
+* Hold Flash BIOS button down for 3 seconds
+* Wait for BIOS update to complete
+* DO NOT POWER OFF THE PC or REMOVE USB
+* Remove USB once light stops flashing
+
+<pre>
+V I D E O   I N S T R U C T I O N
+</pre>
+[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
+
 
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
@@ -107,9 +111,6 @@ Remove USB once light stops flashing
 
 # Download software that manages LEDs
 []() 
-
-# Update BIOS
-[]()
 
 # How to install a liquid cooling fan
 [Watch]()

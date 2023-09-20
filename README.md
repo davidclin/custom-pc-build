@@ -39,7 +39,7 @@ SATA        | for SSD drive
 Molex       | for older fans
 </pre>
 
-# Create Windows 11 Installation Media (5 minutes)
+# Create Windows 11 Installation Media (5-8 minutes)
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>
 If you're unable to format your USB using NTFS because it's too large:<br>

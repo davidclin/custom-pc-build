@@ -84,7 +84,7 @@ etc<br>
 
 # Flash BIOS
 <pre>
-S U M M A R Y   O F   S T E P S
+S U M M A R Y
 </pre>
 * Format USB using FAT32
 * Download latest BIOS firmware from manufacturer website
@@ -97,7 +97,7 @@ S U M M A R Y   O F   S T E P S
 * Remove USB once light stops flashing
 
 <pre>
-V I D E O   I N S T R U C T I O N
+V I D E O 
 </pre>
 [Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
 

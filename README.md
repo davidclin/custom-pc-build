@@ -119,9 +119,9 @@ NZXT NZXT is an American computer hardware manufacturer based in Los Angeles, Ca
 </pre>
 
 # What is?
-[M.2 NVMe SSD](https://youtu.be/HvfIeTieXOI?si=NUun_8WRvbHluK5G)
-[Motherboard]()
-Chipset
-Flash BIOS
-Headers
+[M.2 NVMe SSD](https://youtu.be/HvfIeTieXOI?si=NUun_8WRvbHluK5G)<br>
+[Motherboard]()<br>
+Chipset<br>
+Flash BIOS<br>
+Headers<br>
 

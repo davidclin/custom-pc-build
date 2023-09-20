@@ -82,6 +82,9 @@ GPU (Best pratice to do clean install)<br>
 Motherboard (network, wifi, soundcard, ...)<br>
 etc<br>
 
+# Flash BIOS
+[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)
+
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
 

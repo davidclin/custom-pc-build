@@ -101,6 +101,11 @@ V I D E O
 </pre>
 * [Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
 
+<pre>
+F I L E
+</pre>
+* [Download](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)
+
 
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)

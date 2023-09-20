@@ -99,7 +99,7 @@ S U M M A R Y
 <pre>
 V I D E O 
 </pre>
-[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
+* [Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
 
 
 # Update BIOS

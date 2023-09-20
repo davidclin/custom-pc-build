@@ -83,9 +83,10 @@ Motherboard (network, wifi, soundcard, ...)<br>
 etc<br>
 
 # Flash BIOS
-[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)
-Summary
+[Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)<br>
+
 <pre>
+S U M M A R Y   O F   S T E P S
 Format USB using FAT32
 Download latest BIOS firmware from manufacturer website
 Unzip then copy files to USB

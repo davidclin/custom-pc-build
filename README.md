@@ -84,6 +84,18 @@ etc<br>
 
 # Flash BIOS
 [Watch](https://youtu.be/BgTDzW3tjGg?si=jjBueWCTrWWXg47v)
+Summary
+<pre>
+Format USB using FAT32
+Download latest BIOS firmware from manufacturer website
+Unzip then copy files to USB
+Rename file using provided renaming tool
+Insert USB into Flash BIOS USB port
+Hold Flash BIOS button down for 3 seconds
+Wait for BIOS update to complete
+DO NOT POWER OFF THE PC or REMOVE USB
+Remove USB once light stops flashing
+</pre>
 
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
@@ -119,9 +131,9 @@ NZXT NZXT is an American computer hardware manufacturer based in Los Angeles, Ca
 </pre>
 
 # What is?
-[M.2 NVMe SSD](https://youtu.be/HvfIeTieXOI?si=NUun_8WRvbHluK5G)<br>
-[Motherboard]()<br>
-Chipset<br>
-Flash BIOS<br>
-Headers<br>
+[M.2 NVMe SSD](https://youtu.be/HvfIeTieXOI?si=NUun_8WRvbHluK5G) <br>
+[Motherboard]() <br>
+Chipset <br>
+Flash BIOS <br>
+Headers  <br>
 

@@ -23,6 +23,7 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 # Parts List
 Amazon | [Amazon](https://a.co/6VKQqZ7)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
+Motherboard | [ROG Strix B550-F Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)<br>
 
 # How to prepare and connect motherboard to NXT chassis
 [Watch](https://www.youtube.com/watch?v=z51iV6ke3H0)

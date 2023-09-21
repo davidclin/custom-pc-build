@@ -40,6 +40,10 @@ SATA        | for SSD drive
 Molex       | for older fans
 </pre>
 
+# How to jump a motherboard without a power button
+Use a screwdriver and connect the pins on the motherboard used to power the pc on<br>
+[Watch](https://www.youtube.com/watch?v=FuPZlliGqBw)<br>
+
 # Create Windows 11 Installation Media (5-8 minutes)
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>

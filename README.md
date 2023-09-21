@@ -150,3 +150,6 @@ Chipset <br>
 Flash BIOS <br>
 Headers  <br>
 
+# YouTube
+[How to build a PC - Step by Step](https://youtu.be/PXaLc9AYIcg?si=PTCYFdOd9vkp_Myc)<br>
+

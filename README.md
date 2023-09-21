@@ -139,6 +139,9 @@ Change monitor refresh rate so it matches the max allowed
 * Download wifi and network drivers beforehand as many motherboards do not have the drivers pre-installed
 * Remember to take full advantage of your monitor's refresh rate
 
+# Troubleshooting
+[Troubleshooting a PC with no POST or on display](https://www.youtube.com/watch?v=0wDUN1DqRrw)<br>
+  
 # Terms
 <pre>
 ATX  ATX stands for Advanced Technology Extended, and it is the most common and standard motherboard 

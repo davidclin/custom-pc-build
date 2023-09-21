@@ -117,6 +117,9 @@ F I L E
 # Download software that manages LEDs
 []() 
 
+# Enable XMP
+Go to BIOS and enable<br>
+Verify memory is running at max in Task Manager
 # How to install a liquid cooling fan
 [Watch]()
 

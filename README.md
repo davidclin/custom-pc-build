@@ -123,6 +123,9 @@ Verify memory is running at max in Task Manager
 # How to install a liquid cooling fan
 [Watch]()
 
+# Set monitor refresh rate
+Change monitor refresh rate so it matches the max allowed
+
 # Tips & Tricks
 * Use power cables provided by power supply to avoid accidentally frying your components
 * Read the motherboard manual to understand which slots memory should be paired

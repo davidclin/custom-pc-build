@@ -156,9 +156,9 @@ Change monitor refresh rate so it matches the max allowed
 
 # Troubleshooting
 [Troubleshooting a PC with no POST or on display](https://www.youtube.com/watch?v=0wDUN1DqRrw)<br>
-[Why there is no display when plugging HDMI without a dedicated GPU](https://www.quora.com/Can-a-Ryzen-5-5600X-run-without-a-GPU)
+[Why there is no display when plugging HDMI without a dedicated GPU](https://www.quora.com/Can-a-Ryzen-5-5600X-run-without-a-GPU)<br>
 If you're able to POST and enter BIOS but the power supply and GPU fans suddenly stop, make sure the heat sink is installed on the CPU to prevent overheating.<br>
-The motherboard will try to protect the CPU if it gets too hot and it will quickly if there is no heat sink!
+The motherboard will try to protect the CPU if it gets too hot and it will quickly if there is no heat sink!<br>
 
 # Terms
 <pre>

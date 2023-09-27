@@ -87,12 +87,30 @@ GPU (Best pratice to do clean install)<br>
 Motherboard (network, wifi, soundcard, ...)<br>
 etc<br>
 
-# Flash BIOS
+# Flash BIOS using BIOS Flashback
 <pre>
 S U M M A R Y
+Format USB<br>
+<pre>
+Run cmd as Administrator
+diskpart
+list disk
+select disk (disk #)
+To get the disk # right click Start button and run Disk Management
+attributes disk clear readonly
+clean
+convert mbr
+create partition primary
+format fs=fat32 quick
+cntl+c (to break out)
+chkdsk d: /f /r /x
+Run Disk Management again to confirm USB is healthy
+    
 </pre>
-* Format USB using FAT32
-* Download latest BIOS firmware from manufacturer website
+
+Install
+</pre>
+* [Download](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/) latest BIOS firmware from manufacturer website
 * Unzip then copy files to USB
 * Rename file using provided renaming tool
 * Insert USB into Flash BIOS USB port
@@ -110,7 +128,6 @@ V I D E O
 F I L E
 </pre>
 * [Download](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)
-
 
 # Update BIOS
 [Watch](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)

@@ -89,26 +89,23 @@ etc<br>
 
 # Flash BIOS using BIOS Flashback
 <pre>
-S U M M A R Y
+Format USB
 </pre>
-Format USB<br>
-<pre>
-Run cmd as Administrator
-diskpart
-list disk
-select disk (disk #)
-To get the disk # right click Start button and run Disk Management
-attributes disk clear readonly
-clean
-convert mbr
-create partition primary
-format fs=fat32 quick
-cntl+c (to break out)
-chkdsk d: /f /r /x
-Run Disk Management again to confirm USB is healthy
+* Run cmd as Administrator
+* diskpart
+* list disk
+* select disk (disk #)
+* To get the disk # right click Start button and run Disk Management
+* attributes disk clear readonly
+* clean
+* convert mbr  <---- SUPER IMPORTANT
+* create partition primary
+* format fs=fat32 quick
+* cntl+c (to break out)
+* chkdsk d: /f /r /x
+* Run Disk Management again to confirm USB is healthy
     
-</pre>
-
+<pre>
 Install
 </pre>
 * [Download](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/) latest BIOS firmware from manufacturer website

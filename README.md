@@ -89,7 +89,7 @@ etc<br>
 
 # Flash BIOS using BIOS Flashback
 <pre>
-Format USB
+Format USB | 3 minutes
 </pre>
 * Run cmd as Administrator
 * diskpart

@@ -90,6 +90,7 @@ etc<br>
 # Flash BIOS using BIOS Flashback
 <pre>
 S U M M A R Y
+</pre>
 Format USB<br>
 <pre>
 Run cmd as Administrator

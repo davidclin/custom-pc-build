@@ -106,7 +106,7 @@ Format USB
 * Run Disk Management again to confirm USB is healthy
     
 <pre>
-Flash
+Flash the BIOS
 </pre>
 * [Download](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/) latest BIOS firmware from manufacturer website
 * Unzip then copy files to USB

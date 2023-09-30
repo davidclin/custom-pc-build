@@ -1,3 +1,5 @@
+<h1>MY PERSONAL PC BUILD</h1> 
+
 # Components
 * Mid Tower case
 * Motherboard
@@ -14,6 +16,7 @@
 * Screwdriver
 * Anti-static wristband
 * Suction cup
+* Cable ties
 
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)

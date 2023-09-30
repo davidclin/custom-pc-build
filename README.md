@@ -197,4 +197,4 @@ Permeation <br>
 
 # YouTube
 [How to build a PC - Step by Step](https://youtu.be/PXaLc9AYIcg?si=PTCYFdOd9vkp_Myc)<br>
-
+[How to kill your CPU cooler](https://youtu.be/BbGomv195sk?si=CoNhRNI2VXvY_YyG) <br>

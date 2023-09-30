@@ -80,10 +80,18 @@ oobe\bypassnro
 Perform all Windows updates before updating drivers
 
 # Install manufacturer drivers
-GPU (Best pratice to do clean install)<br>
-  - update refresh rate<br>
-Motherboard (network, wifi, soundcard, ...)<br>
-etc<br>
+<pre>
+ROG Strix 550-F Gaming Wifi II Motherboard
+  - Ethernet | Windows 11 will automatically update
+  - Wifi | Windows 11 will automatically update
+  - Chipset | You will need to download from website 
+GPU 
+  - Best pratice to do clean install
+  - update refresh rate
+</pre>
+
+# Enable XMP 
+To get the max out of your memory, enable this feature in BIOS
 
 # Flash BIOS using BIOS Flashback
 <pre>

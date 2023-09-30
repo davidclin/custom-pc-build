@@ -73,11 +73,12 @@ Run Disk Management again to confirm USB is healthy
 [Watch new](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
 Tips:<br>
 Connect without Internet<br>
-Choose to instal with minimal setup<br>
+Choose to install with minimal setup<br>
 <pre>
 Shift + F10 to open prompt
 oobe\bypassnro  
 </pre>
+If Windows 11 installer doesn't boot from USB, make sure USB is inserted in the USB-C port (red)!
 
 # Update Windows
 Perform all Windows updates before updating drivers
@@ -190,6 +191,8 @@ NZXT NZXT is an American computer hardware manufacturer based in Los Angeles, Ca
 Chipset <br>
 Flash BIOS <br>
 Headers  <br>
+UEFI <br>
+
 
 # YouTube
 [How to build a PC - Step by Step](https://youtu.be/PXaLc9AYIcg?si=PTCYFdOd9vkp_Myc)<br>

@@ -164,6 +164,7 @@ Change monitor refresh rate so it matches the max allowed
 * Download wifi and network drivers beforehand as many motherboards do not have the drivers pre-installed
 * Remember to take full advantage of your monitor's refresh rate
 * Don't pull your fan off the CPU! [Watch](https://youtube.com/shorts/F0MZ8RflQWg?si=_u6hd6wEbUFWOlxz)
+* To boot to UEFI from Windows 11, Shift + Restart -> Troubleshooting -> Advanced options -> UEFI Settings -> Restart
 
 # Troubleshooting
 [Troubleshooting a PC with no POST or on display](https://www.youtube.com/watch?v=0wDUN1DqRrw)<br>

@@ -82,12 +82,13 @@ Perform all Windows updates before updating drivers
 # Install manufacturer drivers | on ASUS motherboard
 <pre>
 ROG Strix 550-F Gaming Wifi II Motherboard
+  - Software and Utility | Download from ASUS website
   - LAN | Windows 11 will automatically update
   - Wireless | Windows 11 will automatically update
-  - Chipset | You will need to download latest AMD drivers from ASUS website 
-  - Audio | You will need to download the latest Realtec drivers from ASUS website
+  - Chipset | Download latest AMD drivers from ASUS website 
+  - Audio | Download latest Realtec drivers from ASUS website
   - VGA | Windows 11 will automatically update
-  - Bluetooth | You will need to download the latest drivers from ASUS website
+  - Bluetooth | Download latest drivers from ASUS website
 GPU 
   - Best pratice to do clean install
   - update refresh rate

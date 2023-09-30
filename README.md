@@ -86,6 +86,7 @@ ROG Strix 550-F Gaming Wifi II Motherboard
   - Wireless | Windows 11 will automatically update
   - Chipset | You will need to download latest AMD drivers from ASUS website 
   - Audio | You will need to download the latest Realtec drivers from ASUS website
+  - VGA | Windows 11 will automatically update
 GPU 
   - Best pratice to do clean install
   - update refresh rate

@@ -13,10 +13,12 @@
 # Tools
 * Thermal paste
 * Spreader
-* Screwdriver
+* Magnetized screwdriver
 * Anti-static wristband
 * Suction cup
 * Cable ties
+* Magnetised screw tray
+* Hemostat
 
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)

@@ -192,6 +192,7 @@ Chipset <br>
 Flash BIOS <br>
 Headers  <br>
 UEFI <br>
+Permeation <br>
 
 
 # YouTube

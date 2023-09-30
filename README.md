@@ -25,6 +25,7 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 Amazon       | [Amazon](https://a.co/6VKQqZ7)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 Motherboard | [ROG Strix B550-F Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)<br>
+...
 
 # How to prepare and connect motherboard to NXT chassis
 [Watch](https://www.youtube.com/watch?v=z51iV6ke3H0)
@@ -42,10 +43,12 @@ Molex       | for older fans
 </pre>
 
 # How to jump a motherboard without a power button
-Use a screwdriver and connect the pins on the motherboard used to power the pc on<br>
+Use a screwdriver or anything conductive to connect the pins on the motherboard used to power the pc on<br>
 [Watch](https://www.youtube.com/watch?v=FuPZlliGqBw)<br>
+![jumping-pc-power-on-pins](https://github.com/davidclin/custom-pc-build/assets/6853545/29f1e1e8-746d-49d1-847b-29f7081d33d3)
 
-# Create Windows 11 Installation Media (5-8 minutes)
+
+# How to create Windows 11 installation media (5-8 minutes)
 [Download](https://www.microsoft.com/en-us/software-download/windows11)<br>
 Run as Administrator.<br>
 If you're unable to format your USB using NTFS because it's too large:<br>
@@ -64,11 +67,11 @@ chkdsk d: /f /r /x
 Run Disk Management again to confirm USB is healthy
 </pre>
 
-# Purchase Windows 11 Pro license 
+# Purchasing Windows 11 Pro license 
 [Purchase](https://www.g2a.com/microsoft-windows-11-pro-pc-microsoft-key-global-i10000271164001)
 
 
-# Install Windows 11
+# Installing Windows 11
 [Watch](https://youtu.be/RYYoCXh2gtw?si=Ab5xFY4sXr3_i93H
 [Watch new](https://youtu.be/xhHtHMQygzE?si=5ye6W42zdQaH7qgc)
 Tips:<br>
@@ -78,14 +81,15 @@ Choose to install with minimal setup<br>
 Shift + F10 to open prompt
 oobe\bypassnro  
 </pre>
-If Windows 11 installer doesn't boot from USB, make sure USB is inserted in the USB-C port (red)!
+If Windows 11 installer doesn't boot from USB of the ROG Strix 550-F Gaming Wifi II motherboard, make sure USB is inserted in the Type C port (Red)!<br>
+![IMG_4739](https://github.com/davidclin/custom-pc-build/assets/6853545/cee83e01-6a2d-477a-9132-0a98b6499e7a)
 
-# Update Windows
+# Updating Windows
 Perform all Windows updates before updating drivers
 
-# Install manufacturer drivers | on ASUS motherboard
+# Installing manufacturer drivers 
 <pre>
-ROG Strix 550-F Gaming Wifi II Motherboard
+For the ROG Strix 550-F Gaming Wifi II Motherboard
   - Software and Utility | Download from ASUS website
   - LAN | Windows 11 will automatically update
   - Wireless | Windows 11 will automatically update
@@ -97,6 +101,10 @@ GPU
   - Best pratice to do clean install
   - update refresh rate
 </pre>
+
+Screenshot of chipset driver installation<br>
+![IMG_4751](https://github.com/davidclin/custom-pc-build/assets/6853545/ca769146-deba-4be0-bc66-d30b6fd0ad58)
+
 
 # Enable XMP 
 To get the max out of your memory, enable this feature in BIOS
@@ -169,6 +177,7 @@ Change monitor refresh rate so it matches the max allowed
 * Remember to take full advantage of your monitor's refresh rate
 * Don't pull your fan off the CPU! [Watch](https://youtube.com/shorts/F0MZ8RflQWg?si=_u6hd6wEbUFWOlxz)
 * To boot to UEFI from Windows 11, Shift + Restart -> Troubleshooting -> Advanced options -> UEFI Settings -> Restart
+* Aim for neutral pressure. Avoid negative pressure (e.g. air outtake > air intake) as it can increase dust buildup inside your case.
 
 # Troubleshooting
 [Troubleshooting a PC with no POST or on display](https://www.youtube.com/watch?v=0wDUN1DqRrw)<br>

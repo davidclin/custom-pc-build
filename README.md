@@ -79,12 +79,13 @@ oobe\bypassnro
 # Update Windows
 Perform all Windows updates before updating drivers
 
-# Install manufacturer drivers
+# Install manufacturer drivers | on ASUS motherboard
 <pre>
 ROG Strix 550-F Gaming Wifi II Motherboard
-  - Ethernet | Windows 11 will automatically update
-  - Wifi | Windows 11 will automatically update
-  - Chipset | You will need to download from website 
+  - LAN | Windows 11 will automatically update
+  - Wireless | Windows 11 will automatically update
+  - Chipset | You will need to download latest AMD drivers from ASUS website 
+  - Audio | You will need to download the latest Realtec drivers from ASUS website
 GPU 
   - Best pratice to do clean install
   - update refresh rate
@@ -92,7 +93,7 @@ GPU
 
 # Enable XMP 
 To get the max out of your memory, enable this feature in BIOS
-
+- 
 # Flash BIOS using BIOS Flashback
 <pre>
 Format USB | 3 minutes

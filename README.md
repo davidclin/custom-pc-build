@@ -20,19 +20,24 @@
 * Magnetised screw tray
 * Hemostat
 
-# Screw types
-Most screws in a computer are UTS 6-32 screws.<br> 
-6-32 screws are used for your power supply, 3.5" hard drives, securing expansion cards, and the case panels.<br> 
-The other common screw type is the metric M3×0.5 screw, which are used for mounting optical drives, floppy drives, and the motherboard.
-
-KB5 x 10mm | used for
+# Screw types included with NZXT H5 Flow
+<pre>S U M M A R Y</pre>
+* Hexagon Screw 6-32 x 6mm | Power supply installation
+* Round 6-32 x 5mm | Motherboard/3.5 hard drive installation
+* M3 x 5mm | 2.5 hard drive installation
+* KB5 x 10mm | Fan installation
 * Standoff 6-32 x 6.5 + 4mm Standoff wrench
+ 
+![image](https://github.com/davidclin/custom-pc-build/assets/6853545/101b2aeb-9dca-4c75-9aa0-f0d68ce4b00a)
+
+
 
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 
 # Parts List
 Amazon       | [Amazon](https://a.co/6VKQqZ7)<br>
+Mid-Tower Case | [NZXT H5 Flow Compact ATX Mid-Tower PC Gaming Case]()
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 Motherboard | [ROG Strix B550-F Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)<br>
 ...

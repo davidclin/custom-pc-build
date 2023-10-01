@@ -122,6 +122,8 @@ For the ROG Strix 550-F Gaming Wifi II Motherboard
 GPU 
   - Best pratice to do clean install
   - update refresh rate
+NZXT H5 Flow RGB & Fan Controller Software
+  - To enable control of the NZXT RGB & Fan Controller, [download](www.nzxt.com/camapp) and install NZXT CAM 
 </pre>
 
 Screenshot of chipset driver installation<br>

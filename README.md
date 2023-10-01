@@ -30,6 +30,8 @@
  
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/101b2aeb-9dca-4c75-9aa0-f0d68ce4b00a)
 
+# NZXT H5 Flow Front Panel Cables
+![image](https://github.com/davidclin/custom-pc-build/assets/6853545/84323a61-f4b2-4b7c-9aa5-a2dfa098d6ac)
 
 
 # PC custom parts picker site

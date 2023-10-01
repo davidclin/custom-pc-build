@@ -123,7 +123,7 @@ GPU
   - Best pratice to do clean install
   - update refresh rate
 NZXT H5 Flow RGB & Fan Controller Software
-  - To enable control of the NZXT RGB & Fan Controller, [download](www.nzxt.com/camapp) and install NZXT CAM 
+  - To enable control of the NZXT RGB & Fan Controller, download and install NZXT CAM from www.nzxt.com/camapp
 </pre>
 
 Screenshot of chipset driver installation<br>

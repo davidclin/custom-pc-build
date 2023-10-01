@@ -39,7 +39,7 @@ To research and find parts compatibility and cost, check out [PC Part Picker](ht
 
 # Parts List
 Amazon       | [Amazon](https://a.co/6VKQqZ7)<br>
-Mid-Tower Case | [NZXT H5 Flow Compact ATX Mid-Tower PC Gaming Case]()
+Mid-Tower Case | [NZXT H5 Flow Compact ATX Mid-Tower PC Gaming Case](https://www.datocms-assets.com/34299/1666250083-case_h5-flow_digital-manual_en_pdf_2208.pdf)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 Motherboard | [ROG Strix B550-F Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)<br>
 ...

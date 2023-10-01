@@ -1,7 +1,7 @@
 <h1>MY PERSONAL PC BUILD | 2023</h1> 
 
 # Components
-* Mid Tower case
+* Mid Tower case | [Manual](https://www.datocms-assets.com/34299/1666250083-case_h5-flow_digital-manual_en_pdf_2208.pdf)
 * Motherboard
 * CPU
 * Memory

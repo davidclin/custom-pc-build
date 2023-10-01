@@ -20,6 +20,13 @@
 * Magnetised screw tray
 * Hemostat
 
+# Screw types
+* 6-32 x 5mm | used to mount motherboard
+* 6-32 (hexagon) x 6mm | ?
+* M3 x 5mm | used for
+* KB5 x 10mm | used for
+* Standoff 6-32 x 6.5 + 4mm Standoff wrench
+
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 

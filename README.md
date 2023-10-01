@@ -21,10 +21,11 @@
 * Hemostat
 
 # Screw types
-* 6-32 (round)   x 5mm | used to mount motherboard
-* 6-32 (hexagon) x 6mm | ?
-* M3 x 5mm | used for
-* KB5 x 10mm | used for
+Most screws in a computer are UTS 6-32 screws.<br> 
+6-32 screws are used for your power supply, 3.5" hard drives, securing expansion cards, and the case panels.<br> 
+The other common screw type is the metric M3×0.5 screw, which are used for mounting optical drives, floppy drives, and the motherboard.
+
+KB5 x 10mm | used for
 * Standoff 6-32 x 6.5 + 4mm Standoff wrench
 
 # PC custom parts picker site

@@ -20,7 +20,10 @@
 * Magnetised screw tray
 * Hemostat
 
-# Screw types included with NZXT H5 Flow
+# NZXT H5 Flow Buttons and I/O
+![image](https://github.com/davidclin/custom-pc-build/assets/6853545/fa72ad9c-8d1c-4e0e-b072-e8086041ed1d)
+
+# NZXT H5 Flow Screws
 <pre>S U M M A R Y</pre>
 * Hexagon Screw 6-32 x 6mm | Power supply installation
 * Round 6-32 x 5mm | Motherboard/3.5 hard drive installation
@@ -32,7 +35,6 @@
 
 # NZXT H5 Flow Front Panel Cables
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/84323a61-f4b2-4b7c-9aa5-a2dfa098d6ac)
-
 
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)

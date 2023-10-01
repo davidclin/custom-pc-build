@@ -48,7 +48,7 @@ Amazon       | [Amazon](https://a.co/6VKQqZ7)<br>
 Mid-Tower Case | [NZXT H5 Flow Compact ATX Mid-Tower PC Gaming Case](https://www.datocms-assets.com/34299/1666250083-case_h5-flow_digital-manual_en_pdf_2208.pdf)<br>
 Power Supply | [MWE Gold 850 v2 Full Modular](https://www.youtube.com/watch?v=YS73fJf62V4)<br>
 Motherboard | [ROG Strix B550-F Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/helpdesk_bios/)<br>
-RGB Hub | Corsair iCue Commander CORE XT controller<br>
+RGB Hub | [Corsair iCue Commander CORE XT controller](https://help.corsair.com/hc/en-us/articles/4411097621517-How-to-Set-up-your-COMMANDER-CORE-XT)<br>
 
 # How to prepare and connect motherboard to NXT chassis
 [Watch](https://www.youtube.com/watch?v=z51iV6ke3H0)

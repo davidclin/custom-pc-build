@@ -36,6 +36,9 @@
 # NZXT H5 Flow Front Panel Cables
 ![image](https://github.com/davidclin/custom-pc-build/assets/6853545/84323a61-f4b2-4b7c-9aa5-a2dfa098d6ac)
 
+# NZXT H5 Flow Cable Management
+![image](https://github.com/davidclin/custom-pc-build/assets/6853545/416cb13e-2b58-46fb-ac70-e24362e07328)
+
 # PC custom parts picker site
 To research and find parts compatibility and cost, check out [PC Part Picker](https://pcpartpicker.com/)
 

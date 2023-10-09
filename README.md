@@ -214,6 +214,9 @@ Change monitor refresh rate so it matches the max allowed
 [Why there is no display when plugging HDMI without a dedicated GPU](https://www.quora.com/Can-a-Ryzen-5-5600X-run-without-a-GPU)<br>
 If you're able to POST and enter BIOS but the power supply and GPU fans suddenly stop, make sure the heat sink is installed on the CPU to prevent overheating.<br>
 The motherboard will try to protect the CPU if it gets too hot and it will quickly if there is no heat sink!<br>
+If only the first RGB port of the Lighting Node Core works and you have more than 2 RGB SP120 fans connected, change the iCue settings to use 8-LED Series Fans<br> 
+![image](https://github.com/davidclin/custom-pc-build/assets/6853545/98833ea1-1719-4b29-a591-17d1d6c5162d)
+
 
 # Terms
 <pre>

@@ -190,11 +190,16 @@ Verify memory is running at max in Task Manager
 # How to install a liquid cooling fan
 [Watch]()
 
+# How to install Corsair SP120 RGB Elite Fans and iCue Software
+[Download iCue Software])(https://www.corsair.com/us/en/s/downloads)
+
+
 # Set monitor refresh rate
 Change monitor refresh rate so it matches the max allowed
 
 # Tips & Tricks
 * Use power cables provided by power supply to avoid accidentally frying your components
+* When purchasing Corsair fans, make sure they are from the SAME family
 * Read the motherboard manual to understand which slots memory should be paired
 * Look for arrows on air cooling unti to see direction of airflow
 * Test everything before mounting the motherboard to the case

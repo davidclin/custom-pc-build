@@ -193,6 +193,8 @@ Verify memory is running at max in Task Manager
 # How to install Corsair SP120 RGB Elite Fans and iCue Software
 [Download iCue Software])(https://www.corsair.com/us/en/s/downloads)
 
+# How to install Corsair iCUE RGB Elite liquid CPU cooler
+[Watch](https://www.youtube.com/watch?v=9swpPo-ey0w)
 
 # Set monitor refresh rate
 Change monitor refresh rate so it matches the max allowed
